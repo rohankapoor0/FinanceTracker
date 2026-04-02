@@ -1,4 +1,4 @@
-# 💸 AI Powered Finance Tracker
+# 💸 Finlytics AI Powered Finance Tracker
 
 A simple finance tracker that helps you keep track of your money with dates, transactions, and clear reports — so you always know where your money is going.
 
